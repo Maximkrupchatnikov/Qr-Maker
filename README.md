@@ -1,3 +1,3 @@
-для запуска программы:
-go run main.go
-
+to make program:
+go build main.go
+./main.exe
