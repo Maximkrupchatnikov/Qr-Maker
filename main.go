@@ -6,8 +6,8 @@ import (
 	"image/png"
 	"net/http"
 	"os"
-  "bufio"
-  "strings"
+        "bufio"
+        "strings"
 )
 
 func main() {
