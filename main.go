@@ -115,7 +115,7 @@ func textfile() {
 func main() {
 	var value string
 	// Выводим пользвательский интерфейс
-	fmt.Println("Выберите действие:")
+	fmt.Println("Выберите действие для создания qr кода:")
 	fmt.Println("1. Ввод c терминала")
 	fmt.Println("2. Считывание текстового файла")
 	fmt.Println("3. Выйти из программы")
