@@ -130,6 +130,6 @@ func main() {
 	case "3":
 		break
 	default:
-		fmt.Println("читай еще раз")
+		fmt.Println("Неверное действие")
 	}
 }
