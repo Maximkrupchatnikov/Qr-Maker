@@ -127,7 +127,7 @@ func main() {
 		keyB()
 	case "2":
 		textfile()
-	case "4":
+	case "3":
 		break
 	default:
 		fmt.Println("читай еще раз")
